@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://owuachahg.calebprovost.com/sitemap.xml
